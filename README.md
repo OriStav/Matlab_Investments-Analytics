@@ -1,9 +1,9 @@
-#Stocks Analysis
+Stocks Analysis
 
-##Summary:
-Plots comparative histograms and graphs which describe the stocks performance over history, and the revenues for the chosen time parameters.
+Summary:
+Plots comparative histograms and graphs which describe thestocks performance over history, and the revenues for the chosen time parameters.
 
-##Description:
+Description:
 Steps:
 	1	Open UI.mlx
 	2	fill all user fields - assigned as controls:
@@ -34,6 +34,3 @@ Most convient way of reviewing the results is by exporting the live Script to PD
 
 Other requirements:
 slash "/" should be modified for windows
-
-##Tags:
-Data exploration, statistics, finance
