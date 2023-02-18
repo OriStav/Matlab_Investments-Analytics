@@ -3,11 +3,11 @@ Stocks Analysis
 Summary:
 Plots comparative histograms and graphs which describe thestocks performance over history, and the revenues for the chosen time parameters.
 
-Description:
-Steps:
-	1.	Open UI.mlx. 
-	2.	fill all user fields - assigned as controls:  
-                InitDate,EndDate
+Description:  
+Steps:  
+	1.	Open UI.mlx.   
+	2.	fill all user fields - assigned as controls:    
+                InitDate,EndDate  
        SourceFolder - Must be modified to the path of the project folder  
        StocksCategory,InvestmentDuration  
        ImportMat.Mine,ImportMat.Clean,ImportMat.Process -   
