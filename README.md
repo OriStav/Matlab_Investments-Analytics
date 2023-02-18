@@ -36,3 +36,5 @@ Most convient way of reviewing the results is by exporting the live Script to PD
 
 ***Other requirements:***
 >slash "/" should be modified for windows
+
+[![View Investments-Analytics on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/124920-investments-analytics)
